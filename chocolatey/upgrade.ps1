@@ -22,7 +22,7 @@ choco upgrade zoom
 # choco upgrade googledrive
 
 # .NET  
-choco install dotnet-6.0-runtime -y --params="Skip32Bit"
+choco upgrade dotnet-6.0-runtime -y
 
 
 
