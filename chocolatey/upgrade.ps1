@@ -24,6 +24,8 @@ choco upgrade zoom
 # .NET  
 choco upgrade dotnet-6.0-runtime -y
 
+# ESET  
+# choco upgrade eset-antivirus
 
 
 # Chrome Extensions ###########  
