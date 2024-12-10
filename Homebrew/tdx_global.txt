@@ -1,0 +1,27 @@
+# List of apps to install / update on macbooks  
+#  
+# Format:  
+#  package_name action  
+#  
+#####################################  
+#############  INSTALL  #############  
+chrome install
+slack install
+zoom install
+
+
+
+####################################  
+#############  UPDATE  #############  
+slack update
+zoom update
+chrome update
+
+
+
+
+#####################################  
+############  UNINSTALL  ############  
+# oldapp uninstall
+
+
