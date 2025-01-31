@@ -1,0 +1,37 @@
+{
+    "globalPackages": [
+        { "name": "chocolatey" },
+        { "name": "notepadplusplus" }
+    ],
+    "departmentPackages": [
+        {
+            "department": "Engineering",
+            "packages": [
+                { "name": "vscode" },
+                { "name": "git" },
+                { "name": "postman" }
+            ]
+        },
+        {
+            "department": "Design",
+            "packages": [
+                { "name": "figma" },
+                { "name": "adobe-creative-cloud" }
+            ]
+        },
+        {
+            "department": "Finance",
+            "packages": [
+                { "name": "powerbi" },
+                { "name": "msexcel" }
+            ]
+        },
+        {
+            "department": "Information Technology",
+            "packages": [
+                { "name": "librewolf" },
+                { "name": "drawio" }
+            ]
+        }
+    ]
+}
