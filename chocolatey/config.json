@@ -1,7 +1,6 @@
 {
     "globalPackages": [
-        { "name": "chocolatey" },
-        { "name": "notepadplusplus" }
+        { "name": "chocolatey" }
     ],
     "departmentPackages": [
         {
