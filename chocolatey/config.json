@@ -1,35 +1,55 @@
 {
     "globalPackages": [
-        { "name": "chocolatey" }
+        { "name": "chocolatey" },
+        { "name": "slack" },
+        { "name": "zoom" },
+        { "name": "googledrive" },
+        { "name": "gdrive" },
+        { "name": "googlechrome" },
+        { "name": "microsoft-edge" }
     ],
     "departmentPackages": [
         {
             "department": "Engineering",
             "packages": [
-                { "name": "vscode" },
-                { "name": "git" },
-                { "name": "postman" }
+                { "name": "vscode" }
             ]
         },
         {
             "department": "Design",
             "packages": [
-                { "name": "figma" },
-                { "name": "adobe-creative-cloud" }
+                { "name": "bitwarden" }
             ]
         },
         {
             "department": "Finance",
             "packages": [
-                { "name": "powerbi" },
-                { "name": "msexcel" }
+                { "name": "bitwarden" }
+            ]
+        },
+         {
+            "department": "Marketing",
+            "packages": [
+                { "name": "bitwarden" },
+                { "name": "bitwarden-chrome" }
             ]
         },
         {
             "department": "Information Technology",
             "packages": [
-                { "name": "librewolf" },
+                { "name": "vscode" },
+                { "name": "google-voice-chrome" },
+                { "name": "openvpn-connect" },
+                { "name": "bitwarden" },
+                { "name": "bitwarden-cli" },
+                { "name": "bitwarden-chrome" },
                 { "name": "drawio" }
+            ]
+        },
+        {
+            "department": "Temp",
+            "packages": [
+                { "name": "slack" }
             ]
         }
     ]
