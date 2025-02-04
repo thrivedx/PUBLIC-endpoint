@@ -10,18 +10,6 @@
     ],
     "departmentPackages": [
         {
-            "department": "Engineering",
-            "packages": [
-                { "name": "vscode" }
-            ]
-        },
-        {
-            "department": "Design",
-            "packages": [
-                { "name": "bitwarden" }
-            ]
-        },
-        {
             "department": "Finance",
             "packages": [
                 { "name": "bitwarden" }
@@ -44,6 +32,186 @@
                 { "name": "bitwarden-cli" },
                 { "name": "bitwarden-chrome" },
                 { "name": "drawio" }
+            ]
+        },
+        {
+            "department": "Administration & Operations",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Admissions",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "AI Technology",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Business Operations",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Commercial",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Data",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Development",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Education Operations",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Enterprise",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Enterprise Sales",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Executive",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Global Partnerships",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Instructor Success",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Learning",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Learning Products",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Legal",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Maintenance",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Office of the CEO",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Operations",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "People",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "People Operations Team",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Procurement",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Product",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Professional Services",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "QA",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "R&D",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Reskilling",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Security & Defense",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Solution",
+            "packages": [
+                { "name": "bitwarden" }
+            ]
+        },
+        {
+            "department": "Technology",
+            "packages": [
+                { "name": "bitwarden" }
             ]
         },
         {
