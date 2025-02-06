@@ -187,7 +187,7 @@
         {
             "department": "R&D",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
