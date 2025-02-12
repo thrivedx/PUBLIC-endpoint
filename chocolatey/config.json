@@ -12,14 +12,14 @@
         {
             "department": "Finance",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
          {
             "department": "Marketing",
             "packages": [
-                { "name": "bitwarden" },
-                { "name": "bitwarden-chrome" }
+                { "name": "slack" },
+                { "name": "bitwarden" }
             ]
         },
         {
@@ -28,7 +28,7 @@
                 { "name": "vscode" },
                 { "name": "google-voice-chrome" },
                 { "name": "openvpn-connect" },
-                { "name": "bitwarden" },
+                { "name": "slack" },
                 { "name": "bitwarden-cli" },
                 { "name": "bitwarden-chrome" },
                 { "name": "drawio" }
@@ -37,151 +37,151 @@
         {
             "department": "Administration & Operations",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Admissions",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "AI Technology",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Business Operations",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Commercial",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Data",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Development",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Education Operations",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Enterprise",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Enterprise Sales",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Executive",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Global Partnerships",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Instructor Success",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Learning",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Learning Products",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Legal",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Maintenance",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Office of the CEO",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Operations",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "People",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "People Operations Team",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Procurement",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Product",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Professional Services",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "QA",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
@@ -193,25 +193,25 @@
         {
             "department": "Reskilling",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Security & Defense",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Solution",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
             "department": "Technology",
             "packages": [
-                { "name": "bitwarden" }
+                { "name": "slack" }
             ]
         },
         {
