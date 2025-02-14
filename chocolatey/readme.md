@@ -1,4 +1,4 @@
-# PUBLIC facing scripts - Chocolatey  
+# PUBLIC facing data - Chocolatey  
 
 > Machine-level, command-line package manager and installer for software on Microsoft Windows  
 
