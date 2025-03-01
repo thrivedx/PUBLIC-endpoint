@@ -1,0 +1,37 @@
+{
+    "globalPackages": [
+        { "name": "chocolatey" },
+        { "name": "googlechrome" },
+        { "name": "googledrive" },
+        { "name": "gdrive" },
+        { "name": "zoom" },
+        { "name": "slack" },
+        { "name": "chrome-remote-desktop-host" },
+        { "name": "microsoft-edge" }
+    ],
+    "departmentPackages": [
+        {
+            "department": "Information Technology", 
+            "packages": [
+                { "name": "vscode" },
+                { "name": "google-voice-chrome" },
+                { "name": "openvpn-connect" },
+                { "name": "bitwarden-cli" },
+                { "name": "bitwarden-chrome" },
+                { "name": "drawio" }
+            ]
+        },
+        {
+            "department": "Security",
+            "packages": [
+                { "name": "slack" }
+            ]
+        },
+        {
+            "department": "Temp",
+            "packages": [
+                { "name": "slack" }
+            ]
+        }
+    ]
+}
